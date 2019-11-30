@@ -1,0 +1,11 @@
+.label{
+     -fx-font-size: 20pt;
+     -fx-background-color: pink;
+    -fx-font-family: "Times New Roman";
+    -fx-border-color: darkmagenta;
+    -fx-border-width: 2px;
+    -fx-backround-color: purple;
+    -fx-font-size: 15;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}

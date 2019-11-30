@@ -1,0 +1,17 @@
+
+.button{
+    -fx-border-color: darkmagenta;
+    -fx-border-width: 5px;
+    -fx-backround-color: purple;
+    -fx-font-size: 15;
+    -fx-border-radius: 10;
+    -fx-background-radius: 60;
+}
+.label{
+   
+    -fx-font-size: 20pt;
+    -fx-text-fill:black;
+    
+    -fx-font-family: "Times New Roman";
+}
+
